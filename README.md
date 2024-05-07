@@ -14,8 +14,7 @@ This Java program is a simple guessing game where the player attempts to guess a
 
 ## Download
 
-You can download the executable JAR file for this game from the[ [releases page](https://github.com/ayoubboulidam/Number_Game/raw/master/src/Number_Game.jar)(#).
-Simply download the JAR file and run it on your local machine.
+You can download the executable JAR file for this game from the[ [releases page](https://github.com/ayoubboulidam/Number_Game/raw/master/src/Number_Game.jar). Simply download the JAR file and run it on your local machine.
 
 ## Implementation Details
 
